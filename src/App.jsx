@@ -4,7 +4,9 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  return <h1>H1 from app component</h1>
+  return (
+    <main></main>
+  )
 }
 
 export default App
